@@ -1,0 +1,2 @@
+chceck default interpreter in: "AppData\Roaming\Code\User\settings.json"
+python exe (global) you find in path echo $env:PATH
